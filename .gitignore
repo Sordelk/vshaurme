@@ -1,3 +1,5 @@
 .idea
 *.sqlite3
 vshaurme/db.sqlite3
+*.vscode
+*.DS_Store
